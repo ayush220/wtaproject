@@ -38,3 +38,8 @@ Then open a browser and go to the followinf URL:
 You should now be seeing the main page. 
 
 ### For any new Features, Bugs or suggestions pls open an issue.
+
+Contributors :
+Naman Vijayvargiya
+Ankit Gupta
+Ayush Rahangdale
