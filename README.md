@@ -28,12 +28,12 @@ For confirmation type the command and check the o/p for the above packages:
 >npm ls
 
 ## Running the Project:
-For Running th project Please make sure you have completed the above steps.
-Go to the main directory and type the command:
->npm start
+git clone https://github.com/ayush220/wtaproject.git
+cd wtaproject-master
+npm install
+npm start
 
-Then open a browser and go to the followinf URL:
-[[http://localhost:7000](http://localhost:8000/)]
+On the browser search localhost:7000
 
 You should now be seeing the main page. 
 
