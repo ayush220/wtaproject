@@ -24,7 +24,7 @@ For Running th project Please make sure you have completed the above steps.
 Go to the main directory and type the command:
 - run `npm start`
 
-Then open a browser and go to the followinf URL:
+Then open a browser and go to the following URL:
 [[http://localhost:7000](http://localhost:7000/)]
 
 You should now be seeing the main page. 
