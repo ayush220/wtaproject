@@ -28,10 +28,10 @@ For confirmation type the command and check the o/p for the above packages:
 >npm ls
 
 ## Running the Project:
-git clone https://github.com/ayush220/wtaproject.git
-cd wtaproject-master
-npm install
-npm start
+git clone https://github.com/ayush220/wtaproject.git<br>
+cd wtaproject-master<br>
+npm install<br>
+npm start<br>
 
 On the browser search localhost:7000
 
