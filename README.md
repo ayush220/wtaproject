@@ -12,34 +12,28 @@ For Confirmation type the following commands in your CMD or Terminal.
 
 If you see any version no. the packages are intalled
 
-##  Packages to be Installed:
-We need to install the following npm packages to run the project:
-- Express
-- MongoDB
-- MongoJS
-- Short id
-for installing the pakages type hte following commands:
->npm install express
->npm install mongodb
->npm install mongojs
->npm install shortid
+##  Installing project
+For installing the project type hte following commands in the terminal:
+>git clone "https://github.com/ayush220/wtaproject"
+>cd wtaproject
+>npm install
 
-For confirmation type the command and check the o/p for the above packages:
->npm ls
+To start the backend server type:
+>npm start
 
 ## Running the Project:
-git clone https://github.com/ayush220/wtaproject.git<br>
-cd wtaproject-master<br>
-npm install<br>
-npm start<br>
+For Running th project Please make sure you have completed the above steps.
+Go to the main directory and type the command:
+>npm start
 
-On the browser search localhost:7000
+Then open a browser and go to the followinf URL:
+[[http://localhost:7000](http://localhost:7000/)]
 
 You should now be seeing the main page. 
 
 ### For any new Features, Bugs or suggestions pls open an issue.
 
-Contributors :<br>
-Naman Vijayvargiya<br>
-Ankit Gupta<br>
-Ayush Rahangdale<br>
+Contributors:
+Naman Vijayvargiya
+Ankit Gupta
+Ayush Rahangdale
