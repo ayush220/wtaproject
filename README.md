@@ -39,7 +39,7 @@ You should now be seeing the main page.
 
 ### For any new Features, Bugs or suggestions pls open an issue.
 
-Contributors :
-Naman Vijayvargiya
-Ankit Gupta
-Ayush Rahangdale
+Contributors :<br>
+Naman Vijayvargiya<br>
+Ankit Gupta<br>
+Ayush Rahangdale<br>
