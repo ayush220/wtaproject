@@ -14,17 +14,15 @@ If you see any version no. the packages are intalled
 
 ##  Installing project
 For installing the project type hte following commands in the terminal:
->git clone "https://github.com/ayush220/wtaproject"
->cd wtaproject
->npm install
+- run `git clone "https://github.com/ayush220/wtaproject"`
+- run `cd wtaproject`
+- run `npm install`
 
-To start the backend server type:
->npm start
 
 ## Running the Project:
 For Running th project Please make sure you have completed the above steps.
 Go to the main directory and type the command:
->npm start
+- run `npm start`
 
 Then open a browser and go to the followinf URL:
 [[http://localhost:7000](http://localhost:7000/)]
@@ -33,7 +31,7 @@ You should now be seeing the main page.
 
 ### For any new Features, Bugs or suggestions pls open an issue.
 
-Contributors:
-Naman Vijayvargiya
-Ankit Gupta
-Ayush Rahangdale
+Contributors:<br>
+Naman Vijayvargiya<br>
+Ankit Gupta<br>
+Ayush Rahangdale<br>
